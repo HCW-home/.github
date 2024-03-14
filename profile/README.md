@@ -1,4 +1,4 @@
-> Main forge of this project is hosted on https://projects.iabsis.com/projects/hcw, Github is just a copy.
+> Main forge of this project is hosted on [https://projects.iabsis.com/projects/hcw](https://projects.iabsis.com/projects/hcw/wiki), Github is just a copy.
 
 # HCW@Home - Simple & Secure remote consultations
 
